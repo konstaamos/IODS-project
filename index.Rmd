@@ -3,7 +3,7 @@ title: "IODS course project"
 author: Konsta Kotilainen
 output:
   html_document:
-    theme: cosmo
+    theme: 9
     toc: true
     toc_depth: 2
     fig_caption: true
