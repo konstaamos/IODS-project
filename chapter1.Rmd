@@ -1,4 +1,4 @@
 
 # About the project
 
-*Luukas haisee https://github.com/*your_github_username*/IODS-project*
+*Luukas on paikalla https://github.com/konstaamos/IODS-project*
